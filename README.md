@@ -1,6 +1,6 @@
 # Hi there, I'm **Repan** 👋
 
-Welcome to my GitHub profile! I’m a passionate **Web Developer** from Medan, Indonesia. Currently working at **PT Naira Mitra Logistik** and exploring the world of **Web Development**, **UI/UX Design**, and **Graphic Design**. 🚀
+Welcome to my GitHub profile! I’m a passionate **Web Developer** from Medan, Indonesia. Recently completed internship at **PT Naira Mitra Logistik**, and now exploring the world of **Web Development**, **UI/UX Design**, and **Graphic Design**. 🚀
 
 ---
 
