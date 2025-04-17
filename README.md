@@ -1,66 +1,78 @@
-# Hi there, I'm **Repan** 👋
-
-Welcome to my GitHub profile! I’m a passionate **Web Developer** from Medan, Indonesia. Recently completed internship at **PT Naira Mitra Logistik**, and now exploring the world of **Web Development**, **UI/UX Design**, and **Graphic Design**. 🚀
+<h1 align="center">Hi there, I'm <strong>Repan</strong> 👋</h1>
+<p align="center">
+  🌐 Web Developer | 🎨 UI/UX Designer | 💡 Creative Thinker  
+  <br />
+  📍 Medan, Indonesia
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🖥️ I’m currently learning **React.js** and working on **web development** projects.
-- 💼 I'm focused on building practical and clean web applications with a solid foundation in **PHP**, **Laravel**, and **JavaScript**.
-- 🎨 I’m passionate about **UI/UX Design** and strive to create intuitive user experiences.
-- 🎓 Currently a student in **Rekayasa Perangkat Lunak (RPL)**, learning new skills every day.
-- 🌍 You can reach out to me at **revanjuniorw@gmail.com**.
+- 🌱 Currently learning **React.js** & deepening my front-end skills  
+- 🧠 Building clean, scalable web apps with **PHP**, **Laravel**, and **JavaScript**  
+- 🎨 Love designing intuitive, user-friendly interfaces in **Figma**  
+- 🛠️ Recently completed internship at **PT Naira Mitra Logistik**  
+- 🎓 Student of **Rekayasa Perangkat Lunak (RPL)**  
+- 📬 Reach me at: **revanjuniorw@gmail.com**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack & Tools
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: PHP, Laravel
-- **Database**: MySQL
-- **Version Control**: Git, GitHub
-- **UI/UX Design**: Figma
-
----
-
-## 📈 GitHub Stats
-
-![Repan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Repan&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
----
-
-## 🔧 Projects
-
-Here are some of the projects I've worked on recently:
-
-### 1. [**Mitra Kargo**](https://mitrakargo.co.id/)
-   - A web platform for logistics management with a **tariff check** feature built using **Laravel** and **PHP**.
-
-### 2. [**Cek Tarif Pengiriman Mitra Logistics**](https://www.mitralogistics.co.id/ekspedisi-darat/tarif-cargo-darat/)
-   - A logistics platform with a **campaign form** and **order management** feature.
-
-### 3. [**Personal Website (React.js)**](https://github.com/Repan/personal-website)
-   - My personal website showcasing my skills, projects, and journey in **web development**.
-
-### 4. [**Portfolio Website Sphere ID**](https://github.com/Repan/portfolio)
-   - A portfolio website designed to display my work in **UI/UX Design** and **Web Development**.
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/repan)
-- [Instagram](https://www.instagram.com/repan.js/?utm_source=ig_web_button_share_sheet)
-- [Website](https://repan.dev)
-- [Email](mailto:revanjuniorw@email.com)
-
----
-
-### ⚡ Fun Fact
-
-I love **learning** new technologies and exploring the potential of **web development** to create user-centered, impactful applications. When I’m not coding, you can find me experimenting with **graphic design** or playing around with **JavaScript**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Repan&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Repan&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories, and don’t hesitate to reach out if you have any questions. 😄
+## 🧩 Featured Projects
+
+### 🔹 [Mitra Kargo](https://mitrakargo.co.id/)
+> Platform logistik dengan fitur cek tarif berbasis **Laravel** dan **PHP**
+
+### 🔹 [Cek Tarif Mitra Logistics](https://www.mitralogistics.co.id/ekspedisi-darat/tarif-cargo-darat/)
+> Fitur form campaign dan manajemen pesanan untuk layanan ekspedisi
+
+### 🔹 [Personal Website (React.js)](https://github.com/Repan/personal-website)
+> Website pribadi untuk showcase skill dan portofolio dengan React
+
+### 🔹 [Portfolio Website Sphere ID](https://github.com/Repan/portfolio)
+> Portofolio kreatif untuk menampilkan desain UI/UX dan proyek web
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/repan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/repan.js"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="mailto:revanjuniorw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://repan.dev"><img src="https://img.shields.io/badge/Portfolio-222?logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I love learning new tech, exploring web design trends, and building digital experiences that are both beautiful and functional!
+
+---
+
+<p align="center">✨ Thanks for stopping by! Let's build something awesome together. ✨</p>
