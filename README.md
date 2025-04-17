@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate **Web Developer** from Medan, I
 - 💼 I'm focused on building practical and clean web applications with a solid foundation in **PHP**, **Laravel**, and **JavaScript**.
 - 🎨 I’m passionate about **UI/UX Design** and strive to create intuitive user experiences.
 - 🎓 Currently a student in **Rekayasa Perangkat Lunak (RPL)**, learning new skills every day.
-- 🌍 You can reach out to me at **vinny.repan@email.com**.
+- 🌍 You can reach out to me at **revanjuniorw@gmail.com**.
 
 ---
 
@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I’m a passionate **Web Developer** from Medan, I
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: PHP, Laravel
-- **Database**: MySQL, PostgreSQL
+- **Database**: MySQL
 - **Version Control**: Git, GitHub
-- **UI/UX Design**: Figma, Adobe XD, Sketch
+- **UI/UX Design**: Figma
 
 ---
 
@@ -34,16 +34,16 @@ Welcome to my GitHub profile! I’m a passionate **Web Developer** from Medan, I
 
 Here are some of the projects I've worked on recently:
 
-### 1. [**Mitra Kargo**](https://github.com/Repan/mitrakargo)
+### 1. [**Mitra Kargo**](https://mitrakargo.co.id/)
    - A web platform for logistics management with a **tariff check** feature built using **Laravel** and **PHP**.
 
-### 2. [**Mitra Logistics**](https://github.com/Repan/mitralogistics)
+### 2. [**Cek Tarif Pengiriman Mitra Logistics**](https://www.mitralogistics.co.id/ekspedisi-darat/tarif-cargo-darat/)
    - A logistics platform with a **campaign form** and **order management** feature.
 
 ### 3. [**Personal Website (React.js)**](https://github.com/Repan/personal-website)
    - My personal website showcasing my skills, projects, and journey in **web development**.
 
-### 4. [**Portfolio Website**](https://github.com/Repan/portfolio)
+### 4. [**Portfolio Website Sphere ID**](https://github.com/Repan/portfolio)
    - A portfolio website designed to display my work in **UI/UX Design** and **Web Development**.
 
 ---
@@ -51,9 +51,9 @@ Here are some of the projects I've worked on recently:
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/repan)
-- [Twitter](https://twitter.com/repan_dev)
+- [Instagram](https://www.instagram.com/repan.js/?utm_source=ig_web_button_share_sheet)
 - [Website](https://repan.dev)
-- [Email](mailto:vinny.repan@email.com)
+- [Email](mailto:revanjuniorw@email.com)
 
 ---
 
