@@ -49,7 +49,7 @@
 ### 🔹 [Cek Tarif Mitra Logistics](https://www.mitralogistics.co.id/ekspedisi-darat/tarif-cargo-darat/)
 > Fitur form campaign dan manajemen pesanan untuk layanan ekspedisi
 
-### 🔹 [Personal Website (React.js)](https://github.com/Repan/personal-website)
+### 🔹 [Personal Website (React.js)]([https://personal-website-gold-two.vercel.app)
 > Website pribadi untuk showcase skill dan portofolio dengan React
 
 ### 🔹 [Portfolio Website Sphere ID](https://github.com/Repan/portfolio)
